@@ -13,5 +13,11 @@ Edit App.config and enter the configuration values for your environment.
     <add key="LogPath" value="C:\inetpub\logs\LogFiles\W3SVC1"/>
   </appSettings>
 </configuration>
-```xml
 
+this is a netcore build, to execute after building 
+
+```
+
+```console
+dotnet HealthMonitor.dll 
+```
