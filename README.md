@@ -14,13 +14,14 @@ Edit App.config and enter the configuration values for your environment.
   </appSettings>
 </configuration>
 
-<h2>
-  This is a netcore build, to execute after building 
-</h2>
 
-<h3>To Execute</h3>
-```
+
+This is a netcore build, to execute after building 
+
+To Execute
 
 ```console
+
 dotnet HealthMonitor.dll 
+
 ```
