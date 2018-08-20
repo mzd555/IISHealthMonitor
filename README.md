@@ -14,8 +14,11 @@ Edit App.config and enter the configuration values for your environment.
   </appSettings>
 </configuration>
 
-this is a netcore build, to execute after building 
+<h2>
+  This is a netcore build, to execute after building 
+</h2>
 
+<h3>To Execute</h3>
 ```
 
 ```console
