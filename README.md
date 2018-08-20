@@ -1,6 +1,6 @@
 # IISHealthMonitor
 Add App.config with the following content and don't forget to replace enter the value for your environment.
-
+```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <configuration>
   <appSettings>
@@ -13,4 +13,5 @@ Add App.config with the following content and don't forget to replace enter the 
     <add key="LogPath" value="C:\inetpub\logs\LogFiles\W3SVC1"/>
   </appSettings>
 </configuration>
+```xml
 
