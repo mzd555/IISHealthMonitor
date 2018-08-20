@@ -19,9 +19,5 @@ Edit App.config and enter the configuration values for your environment.
 This is a netcore build, to execute after building 
 
 To Execute
-
-```console
-
 dotnet HealthMonitor.dll 
 
-```
